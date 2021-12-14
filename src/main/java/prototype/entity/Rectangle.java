@@ -1,4 +1,4 @@
-package q2.entity;
+package prototype.entity;
 
 public class Rectangle extends Shape {
     public int width;

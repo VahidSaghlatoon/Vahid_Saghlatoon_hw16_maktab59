@@ -1,4 +1,4 @@
-package q2.entity;
+package prototype.entity;
 
 
 import java.util.Objects;

@@ -1,8 +1,8 @@
-package q2;
+package prototype;
 
-import q2.entity.Circle;
-import q2.entity.Rectangle;
-import q2.entity.Shape;
+import prototype.entity.Circle;
+import prototype.entity.Rectangle;
+import prototype.entity.Shape;
 
 import java.util.ArrayList;
 import java.util.List;

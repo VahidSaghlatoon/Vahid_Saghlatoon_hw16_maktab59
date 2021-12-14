@@ -1,4 +1,4 @@
-package q2.entity;
+package prototype.entity;
 
 public class Circle extends Shape {
     public int radius;
